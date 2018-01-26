@@ -1,0 +1,8 @@
+.vs
+*.suo
+*.user
+*.pdb
+~$*
+**/[Oo]bj
+**/[Bb]in
+/packages
